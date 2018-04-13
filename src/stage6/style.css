@@ -1,0 +1,21 @@
+.stage-6 ul {
+  margin: 40px 20px;
+  line-height: 1.7em;
+}
+
+.stage-6 li {
+  margin-top: 10px;
+  list-style-type: square;
+  list-style-position: inside;
+}
+
+.stage-6 p {
+  margin: 0 20px;
+}
+
+.stage-6 a {
+  margin-top: 20px;
+  font-size: 40px;
+  text-decoration: none;
+  color: #3080E8;
+}

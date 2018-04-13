@@ -1,1 +1,2 @@
-# 6S-Simulation-Game
+deployed at heroku
+
